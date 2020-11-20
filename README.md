@@ -53,15 +53,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
 
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prasundas99&column=7&hide=PullRequest"/>
-  </a>
-</div>
-
-
-
 
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)

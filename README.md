@@ -40,18 +40,23 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
+
 
 #### Database:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
+
 
 ### Dev-Ops:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
 <code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
 
+
+### Others:
+<code><img src="https://www.chaijs.com/img/chai-logo.png" height="30"></code>
+<code><img src="https://cldup.com/xFVFxOioAU.svg" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30"></code>
 
 
 #### Overall profile stats

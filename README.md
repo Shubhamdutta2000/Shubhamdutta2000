@@ -4,7 +4,7 @@
 
 #### BIO
 
-Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, Desktop App Development experience in Web App Development. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills.
+Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, in Web App Development. I have great communication and management skills.
 
 #### CONNECT WITH ME ON
 

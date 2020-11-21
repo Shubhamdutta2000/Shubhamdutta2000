@@ -74,6 +74,9 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 
 #### Overall profile stats
+![](https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 

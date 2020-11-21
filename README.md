@@ -65,6 +65,9 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30"></code>
 <code><img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30"></code>
 
+
+
+
 ## My Works
 
 - 🔭 I’m currently working as SDE Intern @Quordnet Academy
@@ -73,8 +76,10 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
 
 
-#### Overall profile stats
+
+## Overall profile stats
 ![](https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=merko" />

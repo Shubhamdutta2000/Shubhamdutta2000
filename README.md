@@ -65,7 +65,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30"></code>
 <code><img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30"></code>
 
-### My Works
+## My Works
 
 - 🔭 I’m currently working as SDE Intern @Quordnet Academy
 - 🌱 I’m currently learning Django & Python Stack
@@ -77,7 +77,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ![](https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=merko" />
 
 
 <img src="https://gpvc.arturio.dev/Shubhamdutta2000" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Shubhamdutta2000?style=social"/>

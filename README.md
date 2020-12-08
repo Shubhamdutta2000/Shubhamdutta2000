@@ -21,6 +21,11 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <br />
 
 <!-- Linkdin profile -->
+
+```JavaScript
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+```
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="shubham--dutta"><a class="LI-simple-link" href='https://in.linkedin.com/in/shubham--dutta?trk=profile-badge'>Shubham dutta</a>
 </div>
 
@@ -94,4 +99,3 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <img src="https://gpvc.arturio.dev/Shubhamdutta2000" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Shubhamdutta2000?style=social"/>
 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>

@@ -22,7 +22,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 <!-- Linkdin profile -->
 
-<div
+<!-- <div
   class='LI-profile-badge'
   data-version='v1'
   data-size='medium'
@@ -45,7 +45,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
       async
       defer
     ></script>
-
+ -->
 
 
 ##  Skilled in 

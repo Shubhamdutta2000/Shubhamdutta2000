@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<h3># Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham DUtta. </h3>
-=======
 <h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham DUtta. </h3>
->>>>>>> heading2
 
 <h4 align="center"> I'm am a full Stack MERN/Django Full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 

@@ -35,7 +35,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
     class='LI-simple-link'
     href='https://in.linkedin.com/in/shubham--dutta?trk=profile-badge'
   >
-    Shubham dutta
+    Shubham Dutta
   </a>
 </div>
 
@@ -45,6 +45,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
   async
   defer
 ></script>
+
 
 
 ##  Skilled in 

@@ -18,6 +18,12 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 &nbsp;&nbsp;
 </p>
 
+<br />
+
+<!-- Linkdin profile -->
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="shubham--dutta"><a class="LI-simple-link" href='https://in.linkedin.com/in/shubham--dutta?trk=profile-badge'>Shubham dutta</a>
+</div>
+
 ##  Skilled in 
 
 ### Languages:

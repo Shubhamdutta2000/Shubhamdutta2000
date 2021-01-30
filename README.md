@@ -83,6 +83,9 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 #### Database:
 <code><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="30"></code>
 <code><img src="https://zdnet3.cbsistatic.com/hub/i/r/2018/02/16/8abdb3e1-47bc-446e-9871-c4e11a46f680/resize/370xauto/8a68280fd20eebfa7789cdaa6fb5eff1/mongo-db-logo.png" height="30"></code>
+<code><img src="
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZthR0qpPkNxWOUBBAH5FfYkPDcyt-_wp6w&usqp=CAU" height="30"></code>
+
 
 
 ### Dev-Ops:

@@ -75,6 +75,8 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://miro.medium.com/fit/c/1838/551/1*XkmnsJ6Joa6EDFVGUw0tfA.png" height="30"></code>
 <code><img src="https://www.teamdesk.net/blog/wp-content/uploads/2017/05/oauth2-640x410.jpg" height="30"></code>
 <code><img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30"></code>
+<code><img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30"></code>
 
 
 
@@ -92,9 +94,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ### Others:
 <code><img src="https://www.chaijs.com/img/chai-logo.png" height="30"></code>
 <code><img src="https://cldup.com/xFVFxOioAU.svg" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30"></code>
-<code><img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30"></code>
-
 
 
 

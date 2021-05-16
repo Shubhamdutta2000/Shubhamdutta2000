@@ -48,6 +48,16 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
  -->
 
 
+
+
+## My Works
+
+- 🔭 I’m currently working as SDE Intern @Quordnet Academy
+- 🌱 I’m currently learning Django & Python Stack
+- 👯 I’m looking to collaborate Full Stack Web development Projects
+- 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
+
+
 ##  Skilled in 
 
 ### Languages:
@@ -98,24 +108,10 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://cldup.com/xFVFxOioAU.svg" height="30"></code>
 
 
-
-## My Works
-
-- 🔭 I’m currently working as SDE Intern @Quordnet Academy
-- 🌱 I’m currently learning Django & Python Stack
-- 👯 I’m looking to collaborate Full Stack Web development Projects
-- 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
-
-
-
 ## Overall profile stats
 ![](https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=merko" />
-
-
-<img src="https://gpvc.arturio.dev/Shubhamdutta2000" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Shubhamdutta2000?style=social"/>
-
 

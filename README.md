@@ -6,12 +6,22 @@
 
 Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, in Web App Development. I have great communication and management skills.
 
+
+
+
+## My Works
+
+- 🔭 I’m currently working as SDE Intern @Quordnet Academy
+- 🌱 I’m currently learning Django & Python Stack
+- 👯 I’m looking to collaborate Full Stack Web development Projects
+- 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
+
+
+
 #### CONNECT WITH ME ON
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@shubhamdutta1511"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/medium-60-599153.png"></a>
-&nbsp;&nbsp;
 <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
@@ -47,15 +57,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
     ></script>
  -->
 
-
-
-
-## My Works
-
-- 🔭 I’m currently working as SDE Intern @Quordnet Academy
-- 🌱 I’m currently learning Django & Python Stack
-- 👯 I’m looking to collaborate Full Stack Web development Projects
-- 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
 
 
 ##  Skilled in 

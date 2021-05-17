@@ -6,9 +6,6 @@
 
 Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, in Web App Development. I have great communication and management skills.
 
-
-
-
 ## My Works
 
 - 🔭 I’m currently working as SDE Intern @Quordnet Academy
@@ -16,13 +13,11 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 - 👯 I’m looking to collaborate Full Stack Web development Projects
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
 
-
-
 #### CONNECT WITH ME ON
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center; justify-content: space-around;">
   <div>
-    <p align="center">
+    <p align="left">
     <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>
     &nbsp;&nbsp;
@@ -30,11 +25,8 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
     &nbsp;&nbsp;
     </p>
   </div>
-    ## Overall profile stats
     <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
 </div>
-
-
 
 <br />
 
@@ -65,11 +57,10 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
     ></script>
  -->
 
-
-
-##  Skilled in 
+## Skilled in
 
 ### Languages:
+
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30"></code>
 <code><img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" height="30"></code>
 <code><img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30"></code>
@@ -78,6 +69,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ### Web Development (Full-stack):
 
 #### •Frontend/UI:
+
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30"></code>
 <code><img src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/" height="30"></code>
 <code><img src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" height="30"></code>
@@ -88,6 +80,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://i.pinimg.com/originals/e4/e9/fc/e4e9fc856f0ee78ce86696e5729ab1d2.png" height="30"></code>
 
 #### Backend/Server:
+
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30"></code>
@@ -97,26 +90,21 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30"></code>
 <code><img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30"></code>
 
-
-
 #### Database:
+
 <code><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="30"></code>
 <code><img src="https://zdnet3.cbsistatic.com/hub/i/r/2018/02/16/8abdb3e1-47bc-446e-9871-c4e11a46f680/resize/370xauto/8a68280fd20eebfa7789cdaa6fb5eff1/mongo-db-logo.png" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZthR0qpPkNxWOUBBAH5FfYkPDcyt-_wp6w&usqp=CAU" height="30"></code>
 
-
-
 ### Dev-Ops:
+
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="30"></code>
 <code><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30"></code>
 <code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
 
-
 ### Others:
+
 <code><img src="https://www.chaijs.com/img/chai-logo.png" height="30"></code>
 <code><img src="https://cldup.com/xFVFxOioAU.svg" height="30"></code>
 
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=merko" />
-

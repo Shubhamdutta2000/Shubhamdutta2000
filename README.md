@@ -2,7 +2,7 @@
 
 <h4 align="center"> I'm am a full Stack MERN/Django Full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
-#### BIO
+## BIO
 
 Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, in Web App Development. I have great communication and management skills.
 
@@ -13,20 +13,24 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 - 👯 I’m looking to collaborate Full Stack Web development Projects
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
 
-#### CONNECT WITH ME ON
+### CONNECT WITH ME ON
 
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center; justify-content: space-around;">
-  <div>
-    <p align="left">
-    <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
-    &nbsp;&nbsp;
-    </p>
-  </div>
-    <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
-</div>
+<table>
+  <tr >
+    <td valign="top">
+        <p align="left">
+            <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
+            <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>
+            &nbsp;&nbsp;
+            <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
+            &nbsp;&nbsp;
+        </p>
+    </td>
+    <td style="padding-left: 120px" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
+    </td>
+  </tr>
+</table>
 
 <br />
 

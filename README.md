@@ -20,13 +20,21 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 #### CONNECT WITH ME ON
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
-&nbsp;&nbsp;
-</p>
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
+    &nbsp;&nbsp;
+    </p>
+  </div>
+    ## Overall profile stats
+    <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
+</div>
+
+
 
 <br />
 
@@ -107,10 +115,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ### Others:
 <code><img src="https://www.chaijs.com/img/chai-logo.png" height="30"></code>
 <code><img src="https://cldup.com/xFVFxOioAU.svg" height="30"></code>
-
-
-## Overall profile stats
-![](https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 
 

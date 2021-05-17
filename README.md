@@ -26,7 +26,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
             &nbsp;&nbsp;
         </p>
     </td>
-    <td style="padding-left: 120px" valign="top">
+    <td align="right" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
     </td>
   </tr>

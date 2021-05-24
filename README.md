@@ -2,7 +2,6 @@
 
 <h4 align="center"> I'm am a full Stack MERN/Django Full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
-<br />
 
 ## BIO
 
@@ -18,12 +17,11 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 |   Web Developer Intern    |                      [@IEMA](https://iemlabs.com)                       | April 2021 - Present |
 | Software Developer Intern | [@Quordnet-Academy](https://www.linkedin.com/company/quordnet-academy/) | Sep 2020 - Mar 2021  |
 
-<br />
+
 
 - 👯 I’m looking to collaborate Full Stack development Projects
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
 
-<br />
 <br />
 
 ### CONNECT WITH ME ON

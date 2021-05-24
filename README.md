@@ -2,16 +2,29 @@
 
 <h4 align="center"> I'm am a full Stack MERN/Django Full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
+<br />
+
 ## BIO
 
 Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, in Web App Development. I have great communication and management skills.
 
+<br />
+
 ## My Works
 
-- 🔭 I’m currently working as SDE Intern @Quordnet Academy
-- 🌱 I’m currently learning Django & Python Stack
-- 👯 I’m looking to collaborate Full Stack Web development Projects
+|      💼 Designation       |                             🏢Organization                              |      ⏰Timeline      |
+| :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
+|   Technical Instructor    |                      [@IEMA](https://iemlabs.com)                       | April 2021 - Present |
+|   Web Developer Intern    |                      [@IEMA](https://iemlabs.com)                       | April 2021 - Present |
+| Software Developer Intern | [@Quordnet-Academy](https://www.linkedin.com/company/quordnet-academy/) | Sep 2020 - Mar 2021  |
+
+<br />
+
+- 👯 I’m looking to collaborate Full Stack development Projects
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
+
+<br />
+<br />
 
 ### CONNECT WITH ME ON
 
@@ -20,9 +33,9 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
     <td valign="top">
         <p align="left">
             <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
-            <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>
+            <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"></a>
             &nbsp;&nbsp;
-            <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
+            <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
             &nbsp;&nbsp;
         </p>
     </td>
@@ -66,26 +79,26 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ### Languages:
 
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30"></code>
-<code><img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" height="30"></code>
+<code><img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" height="30"></code>
 <code><img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30"></code>
-<code><img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" height="30"></code>
+<code><img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30"></code>
+<code><img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" height="30" /></code>
 
 ### Web Development (Full-stack):
 
 #### •Frontend/UI:
 
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30"></code>
-<code><img src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/" height="30"></code>
-<code><img src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" height="30"></code>
-<code><img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" height="30"></code>
+<code><img src="https://technologyoutfitter.com/wp-content/uploads/2020/07/css-118-569410.png" height="30"></code>
+<code><img src="https://img.icons8.com/color/452/bootstrap.png" height="30"></code>
+<code><img src="https://i.dlpng.com/static/png/7044131_preview.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
-
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="30"></code>
-<code><img src="https://i.pinimg.com/originals/e4/e9/fc/e4e9fc856f0ee78ce86696e5729ab1d2.png" height="30"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" height="30"></code>
 
 #### Backend/Server:
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
+<code><img src="https://www.excelsiortechnologies.com/img/about/node-js.png" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30"></code>
 <code><img src="https://miro.medium.com/fit/c/1838/551/1*XkmnsJ6Joa6EDFVGUw0tfA.png" height="30"></code>
@@ -96,7 +109,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 #### Database:
 
-<code><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="30"></code>
+<code><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="40"></code>
 <code><img src="https://zdnet3.cbsistatic.com/hub/i/r/2018/02/16/8abdb3e1-47bc-446e-9871-c4e11a46f680/resize/370xauto/8a68280fd20eebfa7789cdaa6fb5eff1/mongo-db-logo.png" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZthR0qpPkNxWOUBBAH5FfYkPDcyt-_wp6w&usqp=CAU" height="30"></code>
 

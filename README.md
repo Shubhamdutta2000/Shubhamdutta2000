@@ -1,11 +1,10 @@
-<h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham DUtta. </h3>
+<h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Dutta. </h3>
 
-<h4 align="center"> I'm am a full Stack MERN/Django Full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center"> Full Stack Web Developer, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
 ## BIO
 
-Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, in Web App Development. I have great communication and management skills.
-
+Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full stack, WAMP stack, Server management automation using Bash, in Web App Development. I have great communication and management skills. Also I am proficient in Computer networking, DevOps and System Administration.
 <br />
 
 ## My Works

@@ -2,7 +2,6 @@
 
 <h4 align="center"> I'm am a full Stack MERN/Django Full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
-
 ## BIO
 
 Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with Django Full stack, server management automation using Bash, in Web App Development. I have great communication and management skills.
@@ -16,8 +15,6 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 |   Technical Instructor    |                      [@IEMA](https://iemlabs.com)                       | April 2021 - Present |
 |   Web Developer Intern    |                      [@IEMA](https://iemlabs.com)                       | April 2021 - Present |
 | Software Developer Intern | [@Quordnet-Academy](https://www.linkedin.com/company/quordnet-academy/) | Sep 2020 - Mar 2021  |
-
-
 
 - 👯 I’m looking to collaborate Full Stack development Projects
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
@@ -122,4 +119,10 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 <code><img src="https://www.chaijs.com/img/chai-logo.png" height="30"></code>
 <code><img src="https://cldup.com/xFVFxOioAU.svg" height="30"></code>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=merko" />
+<br />
+
+## 🏆 Github Profile Trophy </h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamdutta2000&theme=dracula" alt="Shubhamdutta2000" /></a> </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdutta2000&layout=compact&theme=merko" />

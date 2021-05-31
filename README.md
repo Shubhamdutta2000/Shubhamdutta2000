@@ -11,7 +11,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 <table style="border: "none"">
   <tr >
-  <td width="46%">
+  <td width="42%">
 
 ## My Works
 
@@ -26,7 +26,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
   </td>
   
-  <td width="54%" valign="top">
+  <td width="58%" valign="top">
   <img align="right" src="./images/work2.svg" />
   </td>
   </tr>
@@ -93,6 +93,8 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <code><img src="https://i.dlpng.com/static/png/7044131_preview.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" height="30"></code>
+<code><img src="https://www.pngfind.com/pngs/m/150-1507248_image-library-stock-file-vue-js-logo-wikimedia.png" height="30"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" height="30"></code>
 
 #### Backend/Server:

@@ -2,7 +2,7 @@
 
 <h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Dutta. </h3>
 
-<h4 align="center"> Full Stack Web Developer, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center"> Software Developer, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
 ## BIO
 
@@ -31,18 +31,6 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
   </td>
   </tr>
 </table>
-
-<br />
-
-### CONNECT WITH ME ON
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
-    &nbsp;&nbsp;
-</p>
 
 <br />
 
@@ -77,53 +65,56 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 ### Languages:
 
-<code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30"></code>
-<code><img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" height="30"></code>
-<code><img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30"></code>
-<code><img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30"></code>
-<code><img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" height="30" /></code>
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30">
+
+<img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" height="30">
+<img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
+<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
 
 ### Web Development (Full-stack):
 
 #### •Frontend/UI:
 
-<code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30"></code>
-<code><img src="https://technologyoutfitter.com/wp-content/uploads/2020/07/css-118-569410.png" height="30"></code>
-<code><img src="https://img.icons8.com/color/452/bootstrap.png" height="30"></code>
-<code><img src="https://i.dlpng.com/static/png/7044131_preview.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
-<code><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" height="30"></code>
-<code><img src="https://www.pngfind.com/pngs/m/150-1507248_image-library-stock-file-vue-js-logo-wikimedia.png" height="30"></code>
-<code><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" height="30"></code>
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30">
+<img src="https://technologyoutfitter.com/wp-content/uploads/2020/07/css-118-569410.png" height="30">
+<img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
+<img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" height="36">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30">
+<img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" height="30">
+<img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="36">
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" height="30">
 
 #### Backend/Server:
 
-<code><img src="https://www.excelsiortechnologies.com/img/about/node-js.png" height="30"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30"></code>
-<code><img src="https://miro.medium.com/fit/c/1838/551/1*XkmnsJ6Joa6EDFVGUw0tfA.png" height="30"></code>
-<code><img src="https://www.teamdesk.net/blog/wp-content/uploads/2017/05/oauth2-640x410.jpg" height="30"></code>
-<code><img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30"></code>
-<code><img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30"></code>
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="36">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30">
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="36">
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="36">
+<img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" height="30">
+<img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30">
+<img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30">
 
 #### Database:
 
-<code><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="40"></code>
-<code><img src="https://zdnet3.cbsistatic.com/hub/i/r/2018/02/16/8abdb3e1-47bc-446e-9871-c4e11a46f680/resize/370xauto/8a68280fd20eebfa7789cdaa6fb5eff1/mongo-db-logo.png" height="30"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZthR0qpPkNxWOUBBAH5FfYkPDcyt-_wp6w&usqp=CAU" height="30"></code>
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="40">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="39">
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36">
+<img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" height="30">
 
 ### Dev-Ops:
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="30"></code>
-<code><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30"></code>
-<code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30">
 
 ### Others:
 
-<code><img src="https://www.chaijs.com/img/chai-logo.png" height="30"></code>
-<code><img src="https://cldup.com/xFVFxOioAU.svg" height="30"></code>
+<img src="https://www.chaijs.com/img/chai-logo.png" height="30">
+<img src="https://cldup.com/xFVFxOioAU.svg" height="30">
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="36">
 
 <br />
 
@@ -146,3 +137,15 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
   </tr>
 </table>
+
+<br />
+
+### CONNECT WITH ME ON
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
+    &nbsp;&nbsp;
+</p>

@@ -1,4 +1,4 @@
-<img src="./images/header.png" height="210" width="100%"></a>
+<img src="./images/header.png" height="220" width="100%"></a>
 
 <h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Dutta. </h3>
 
@@ -9,7 +9,7 @@
 Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full stack, WAMP stack, Server management automation using Bash, in Web App Development. I have great communication and management skills. Also I am proficient in Computer networking, DevOps and System Administration.
 <br />
 
-<table style="border: "none"">
+<table style="border: none">
   <tr >
   <td width="42%">
 

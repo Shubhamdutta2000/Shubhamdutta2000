@@ -1,4 +1,4 @@
-<img src="./Twitter Header(with skills)3.png" height="310" width="100%"></a>
+<img src="./Twitter Header(with skills)3.png" height="260" width="100%"></a>
 
 <h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Dutta. </h3>
 

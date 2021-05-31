@@ -9,7 +9,9 @@
 Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full stack, WAMP stack, Server management automation using Bash, in Web App Development. I have great communication and management skills. Also I am proficient in Computer networking, DevOps and System Administration.
 <br />
 
-<img width="40%" align="right" src="./images/work2.svg" />
+<table>
+  <tr >
+  <td width="60%">
 
 ## My Works
 
@@ -21,6 +23,14 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 - 👯 I’m looking to collaborate Full Stack development Projects
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
+
+  </td>
+  
+  <td width="40%" valign="top">
+  <img align="right" src="./images/work2.svg" />
+  </td>
+  </tr>
+</table>
 
 <br />
 

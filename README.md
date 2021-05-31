@@ -1,3 +1,5 @@
+<img src="./Twitter Header(with skills)3.png" height="310" width="100%"></a>
+
 <h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Dutta. </h3>
 
 <h4 align="center"> Full Stack Web Developer, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
@@ -22,22 +24,13 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 ### CONNECT WITH ME ON
 
-<table>
-  <tr >
-    <td valign="top">
-        <p align="left">
-            <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
-            <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"></a>
-            &nbsp;&nbsp;
-            <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
-            &nbsp;&nbsp;
-        </p>
-    </td>
-    <td align="right" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+    <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
+    &nbsp;&nbsp;
+</p>
 
 <br />
 
@@ -124,4 +117,18 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamdutta2000&theme=dracula" alt="Shubhamdutta2000" /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdutta2000&layout=compact&theme=merko" />
+<br />
+
+## Overall Profile Stats
+
+<table>
+  <tr >
+      <td align="right" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdutta2000&layout=compact&theme=merko" />
+    </td>
+
+  </tr>
+</table>

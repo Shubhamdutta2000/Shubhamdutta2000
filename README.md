@@ -1,6 +1,6 @@
 <img src="./images/header.png" height="220" width="100%"></a>
 
-<h3>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Dutta. </h3>
+<h3 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Dutta. </h3>
 
 <h4 align="center"> Software Developer, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 

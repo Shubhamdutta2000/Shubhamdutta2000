@@ -47,7 +47,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 ### Web Development (Full-stack):
 
-#### •Frontend/UI:
+#### Frontend/UI:
 
 <div>
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30">

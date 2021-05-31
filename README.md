@@ -34,47 +34,22 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 <br />
 
-<!-- Linkdin profile -->
-
-<!-- <div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='medium'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='dark'
-  data-vanity='shubham--dutta'
->
-  <a
-    class='LI-simple-link'
-    href='https://in.linkedin.com/in/shubham--dutta?trk=profile-badge'
-  >
-    Shubham Dutta
-  </a>
-</div>
-
-    <script
-      type='text/javascript'
-      src='https://platform.linkedin.com/badges/js/profile.js'
-      async
-      defer
-    ></script>
- -->
-
 ## Skilled in
 
 ### Languages:
 
+<div>
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30">
-
 <img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" height="30">
 <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
+</div>
 
 ### Web Development (Full-stack):
 
 #### •Frontend/UI:
 
+<div>
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30">
 <img src="https://technologyoutfitter.com/wp-content/uploads/2020/07/css-118-569410.png" height="30">
 <img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
@@ -84,9 +59,11 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="36">
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" height="30">
+</div>
 
 #### Backend/Server:
 
+<div>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="36">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30">
@@ -96,25 +73,32 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" height="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30">
 <img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30">
+</div>
 
 #### Database:
 
+<div>
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="40">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36">
 <img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" height="30">
+</div>
 
 ### Dev-Ops:
 
+<div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30">
 <img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30">
+</div>
 
 ### Others:
 
+<div>
 <img src="https://www.chaijs.com/img/chai-logo.png" height="30">
 <img src="https://cldup.com/xFVFxOioAU.svg" height="30">
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="36">
+</div>
 
 <br />
 

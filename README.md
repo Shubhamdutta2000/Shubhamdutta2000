@@ -21,6 +21,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 |   Software Developer Intern    |                      [@IEMA](https://iemlabs.com)                       | April 2021 - Present |
 | Software Developer Intern | [@Quordnet-Academy](https://www.linkedin.com/company/quordnet-academy/) | Sep 2020 - Mar 2021  |
 | Founding Member & Web Developer | [@Hack Club Uemk]() | June 2020 - June 2021 |
+| Freelancer | [@TreatAp]() | Nov 2020 - Dec 2020 |
 
 - 👯 I’m looking to collaborate Full Stack development Projects
 - 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor

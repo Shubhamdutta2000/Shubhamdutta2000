@@ -59,6 +59,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="36">
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" height="30">
+<img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" height="36"> 
 </div>
 
 #### Backend/Server:
@@ -73,6 +74,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" height="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30">
 <img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30">
+<img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" height="36">
 </div>
 
 #### Database:
@@ -84,13 +86,25 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" height="30">
 </div>
 
+
+#### Microservices
+
+<div>
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="36">
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/elastic.png" height="36">
+<img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" height="36">
+<img src="https://raw.githubusercontent.com/docker-library/docs/ad703934a62fabf54452755c8486698ff6fc5cc2/nats-streaming/logo.png" height="36">
+ 
 ### Dev-Ops:
 
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30">
 <img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30">
+<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="36">
+<img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" height="36">
 </div>
+ 
 
 ### Others:
 
@@ -98,6 +112,8 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <img src="https://www.chaijs.com/img/chai-logo.png" height="30">
 <img src="https://cldup.com/xFVFxOioAU.svg" height="30">
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="36">
+<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" height="36">
+<img src="https://github.com/scrapy/scrapy/blob/master/artwork/scrapy-logo.jpg" height="36">
 </div>
 
 <br />

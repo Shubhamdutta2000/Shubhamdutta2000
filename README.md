@@ -6,7 +6,8 @@
 
 ## BIO
 
-Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full stack, WAMP stack, Server management automation using Bash, in Web App Development. I have great communication and management skills. Also I am proficient in Computer networking, DevOps and System Administration.
+Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full stack, WAMP stack, Server management automation using Bash, in Web App Development. I have great communication and management skills. Also I am proficient in Computer networking, DevOps and System Administration. I’m currently exploring **Web 3.0** and do some personal project on that.
+
 <br />
 
 <table style="border: none">
@@ -26,7 +27,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
     
 
 - 👯 I’m looking to collaborate Full Stack development Projects
-- 😄 Passion: | Developer | Coder | Tech lover | Music | Contributor
+- 😄 Passion: | Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music
 
   </td>
   

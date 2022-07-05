@@ -18,9 +18,9 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 |      💼 Designation       |                             🏢Organization                              |      ⏰Timeline      |
 | :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
-|   Software Developer      |                     [@Finarb](https://finarbconsulting.com/)            | June 2022 - Present  |
-|   Software Developer Intern |                      [@IEMA](https://iemlabs.com)                  | April 2021 - May 2022 |
-|   Technical Instructor    |                      [@IEMA](https://iemlabs.com)                       | April 2021 - November 2021 |
+|   Software Developer      |                     [@Finarb](https://www.linkedin.com/company/finarb-consulting/)            | June 2022 - Present  |
+|   Software Developer Intern |                      [@IEMA](https://www.linkedin.com/company/iemaiemlabs/)                  | April 2021 - May 2022 |
+|   Technical Instructor    |                      [@IEMA](https://www.linkedin.com/company/iemaiemlabs/)                       | April 2021 - November 2021 |
 | Web Lead | [@Ureckon](https://www.ureckon.org) | November 2021 - Present |
 | Software Developer Intern | [@Quordnet-Academy](https://www.linkedin.com/company/quordnet-academy/) | Sep 2020 - Mar 2021  |
 | Backend Developer (Freelancer) | [@arches software co.](https://www.linkedin.com/company/arches-software/) | August 2021 - November 2021 |

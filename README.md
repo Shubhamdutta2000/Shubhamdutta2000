@@ -165,6 +165,8 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
     <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
+    <a href="https://dev.to/shubhamdutta2000"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0hSfyHKwWGd1V4Mc1tpucPh8sVqkqQmlYsQ&usqp=CAU"></a>
     &nbsp;&nbsp;
 </p>
+
+

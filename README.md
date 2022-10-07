@@ -50,6 +50,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" height="30">
 <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30">
 </div>
 
 ### Web Development (Full-stack):
@@ -58,7 +59,9 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 <div>
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30">
-<img src="https://technologyoutfitter.com/wp-content/uploads/2020/07/css-118-569410.png" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30">
 <img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
 <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" height="36">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30">
@@ -107,7 +110,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30">
-<img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30">
 <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="36">
 <img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" height="36">
 </div>

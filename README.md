@@ -40,97 +40,92 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 </table>
 
 <br />
+<h2>🛠️ Skilled In</h2>
 
-## Skilled in
+<h3>👨‍💻 Languages:</h3>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40"></td>
 
-### Languages:
+</tr></table>
 
-<div>
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30">
-<img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" height="30">
-<img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
-<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30">
-</div>
+<h3>🌐 Web Development (Full-stack):</h3>
 
-### Web Development (Full-stack):
+<h4>Frontend/UI:</h4>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://img.icons8.com/color/452/bootstrap.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" width="40" height="40"></td>
+</tr></table>
 
-#### Frontend/UI:
+<h4>Backend/Server:</h4>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.shutterstock.com/image-vector/rest-api-icon-isolated-flat-260nw-2585260099.jpg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://e7.pngegg.com/pngimages/453/918/png-clipart-net-framework-software-framework-microsoft-corporation-model-view-controller-java-server-pages-blue-text.png" width="40" height="40"></td>
+</tr></table>
 
-<div>
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30">
-<img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
-<img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" height="36">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30">
-<img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" height="30">
-<img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="36">
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" height="30">
-<img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" height="36"> 
-</div>
+<h4>Database:</h4>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://img.icons8.com/color/452/mongodb.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" width="40" height="40"></td>
+</tr></table>
 
-#### Backend/Server:
+<h4>Microservices:</h4>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/elastic.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/docker-library/docs/ad703934a62fabf54452755c8486698ff6fc5cc2/nats-streaming/logo.png" width="40" height="40"></td>
+</tr></table>
 
-<div>
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="36">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="36">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="36">
-<img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" height="30">
-<img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" height="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" height="30">
-<img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" height="30">
-<img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" height="36">
-</div>
+<h3>⚙️ DevOps:</h3>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" width="40" height="40"></td>
+</tr></table>
 
-#### Database:
+<h3>⛓️ Blockchain:</h3>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570714-3318bf9a-88c8-4e4c-8861-e34d7cccbfa9.png?raw=true" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570862-3e6be8b6-1f32-4279-ad8c-36726a46970f.png?raw=true" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570921-cf4d7b92-6413-4a9f-92a0-5ae36a20921f.png?raw=true" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570961-38dec7bc-5f15-4f09-849a-2f73f0f7cfd7.png?raw=true" width="40" height="40"></td>
+</tr></table>
 
-<div>
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="40">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="39">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36">
-<img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" height="30">
-</div>
-
-
-#### Microservices
-
-<div>
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="36">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/elastic.png" height="36">
-<img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" height="36">
-<img src="https://raw.githubusercontent.com/docker-library/docs/ad703934a62fabf54452755c8486698ff6fc5cc2/nats-streaming/logo.png" height="36">
- 
-### Dev-Ops:
-
-<div>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30">
-<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="36">
-<img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" height="36">
-</div>
- 
-### Blockchain:
-<img src="https://user-images.githubusercontent.com/62681943/138570714-3318bf9a-88c8-4e4c-8861-e34d7cccbfa9.png?raw=true" height=48 >
-<img src="https://user-images.githubusercontent.com/62681943/138570862-3e6be8b6-1f32-4279-ad8c-36726a46970f.png?raw=true" height=44 >
-<img src="https://user-images.githubusercontent.com/62681943/138570921-cf4d7b92-6413-4a9f-92a0-5ae36a20921f.png?raw=true" height=44 >
-<img src="https://user-images.githubusercontent.com/62681943/138570961-38dec7bc-5f15-4f09-849a-2f73f0f7cfd7.png?raw=true" height=44 >
-
-
-### Others:
-
-<div>
-<img src="https://www.chaijs.com/img/chai-logo.png" height="30">
-<img src="https://cldup.com/xFVFxOioAU.svg" height="30">
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="36">
-<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" height="36">
-<img src="https://github.com/scrapy/scrapy/blob/master/artwork/scrapy-logo.jpg" height="36">
-</div>
+<h3>📦 Others:</h3>
+<table><tr>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.chaijs.com/img/chai-logo.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://cldup.com/xFVFxOioAU.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_icP-qMVsx7hTMAH4BaqbroHDdZ0QoS_p6w&s" width="40" height="40"></td>
+</tr></table>
 
 <br />
 
@@ -164,12 +159,12 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 ### CONNECT WITH ME ON
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"></a>
-    &nbsp;&nbsp;
-    <a href="https://dev.to/shubhamdutta2000"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0hSfyHKwWGd1V4Mc1tpucPh8sVqkqQmlYsQ&usqp=CAU"></a>
-    &nbsp;&nbsp;
-</p>
+  <table>
+    <tr>
+        <td style="width:50px;height:50px;text-align:center;"> <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"  width="60" height="60"></a>&nbsp;&nbsp;</td>
+        <td style="width:50px;height:50px;text-align:center;"> <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://pngdownload.io/wp-content/uploads/2023/12/X-logo-social-media-icon-transparent-png-jpg.webp"  width="60" height="60"></a></td>
+        <td style="width:50px;height:50px;text-align:center;"><a href="https://dev.to/shubhamdutta2000"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0hSfyHKwWGd1V4Mc1tpucPh8sVqkqQmlYsQ&usqp=CAU"  width="60" height="60"></a></td>
+    </tr>
+  </table>
 
 

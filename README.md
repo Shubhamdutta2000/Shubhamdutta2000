@@ -103,11 +103,13 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 <h3>⚙️ DevOps:</h3>
 <table><tr>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img alt="git" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img alt="github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img alt="docker" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img alt="kubernetes" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img alt="Azure" src="https://swimburger.net/media/0zcpmk1b/azure.jpg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img alt="AWS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqBlKIGFAA8PcRh-9V_WiO-KCXaY-Gyie8Q&s" width="40" height="40"></td>
 </tr></table>
 
 <h3>⛓️ Blockchain:</h3>

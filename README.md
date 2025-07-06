@@ -81,7 +81,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
   <td style="width:50px;height:50px;text-align:center;"><img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" width="40" height="40"></td>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" width="40" height="40"></td>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://www.shutterstock.com/image-vector/rest-api-icon-isolated-flat-260nw-2585260099.jpg" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://ih1.redbubble.net/image.5432135973.6302/st,small,507x507-pad,600x600,f8f8f8.jpg" width="40" height="40"></td>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://e7.pngegg.com/pngimages/453/918/png-clipart-net-framework-software-framework-microsoft-corporation-model-view-controller-java-server-pages-blue-text.png" width="40" height="40"></td>
 </tr></table>
 
